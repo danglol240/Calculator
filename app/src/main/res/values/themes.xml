@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Calculator" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/lightblack</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
+</resources>
